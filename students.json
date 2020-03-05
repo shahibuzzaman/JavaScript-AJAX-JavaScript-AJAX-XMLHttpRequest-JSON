@@ -1,0 +1,30 @@
+[
+  {
+  "id" : 1,
+  "name" : "Shahibuzzaman",
+  "dept" : "CSE",
+  "university" : "AIUB"
+
+},
+{
+  "id" : 2,
+  "name" : "Masoodur Rahman Khan",
+  "dept" : "CSE",
+  "university" : "AIUB"
+
+},
+{
+  "id" : 3,
+  "name" : "Shahidul I Khan",
+  "dept" : "CSE",
+  "university" : "AIUB"
+
+},
+{
+  "id" : 4,
+  "name" : "Md. Azad Hossain",
+  "dept" : "CSE",
+  "university" : "AIUB"
+
+}
+]
